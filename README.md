@@ -55,5 +55,3 @@ GNU
 ```package
 gamePad=github:DFRobot/pxt-motor
 ```
-
-## my branch
